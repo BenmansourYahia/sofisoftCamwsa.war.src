@@ -1,0 +1,3 @@
+# Project exclude paths
+/META-INF/maven/ma.sofisoft/cam2020ws/target/
+/target/
